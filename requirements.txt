@@ -1,7 +1,6 @@
 numpy
 scipy
 matplotlib
-mpl_toolkits
 cmasher
 joypy
 seaborn
