@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+mpl_toolkits
+cmasher
+joypy
+seaborn
+pandas
+wordcloud
+bokeh
+holoviews
