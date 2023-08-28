@@ -165,4 +165,5 @@ raw_data
 test2
 streamlit
 data/*
+!data/movement-speeds-hourly-san-francisco-2020-1_first1k.csv
 notebooks/*
