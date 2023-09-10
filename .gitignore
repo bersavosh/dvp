@@ -170,6 +170,7 @@ notebooks/*
 
 # Lecture 7
 !data/loan_data_subset.csv
+!data/*melt*
 !notebooks/transforms_in_polar_coordinates.ipynb
 !notebooks/pca_histogram_on_scatterplot.ipynb
 !notebooks/scales_comparison.ipynb
