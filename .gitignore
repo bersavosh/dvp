@@ -167,3 +167,13 @@ streamlit
 data/*
 !data/movement-speeds-hourly-san-francisco-2020-1_first1k.csv
 notebooks/*
+
+# Lecture 7
+!data/loan_data_subset.csv
+!notebooks/transforms_in_polar_coordinates.ipynb
+!notebooks/pca_histogram_on_scatterplot.ipynb
+!notebooks/scales_comparison.ipynb
+!notebooks/projection_*.ipynb
+!notebooks/pandas_overview*
+!notebooks/histogram_binning.ipynb
+!notebooks/plotting_histogram_workbook.ipynb
