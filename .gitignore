@@ -164,13 +164,13 @@ cython_debug/
 raw_data
 test2
 streamlit
-data/*
-!data/movement-speeds-hourly-san-francisco-2020-1_first1k.csv
+#data/*
+#!data/movement-speeds-hourly-san-francisco-2020-1_first1k.csv
 notebooks/*
 
 # Lecture 7
-!data/loan_data_subset.csv
-!data/*melt*
+#!data/loan_data_subset.csv
+#!data/*melt*
 !notebooks/transforms_in_polar_coordinates.ipynb
 !notebooks/pca_histogram_on_scatterplot.ipynb
 !notebooks/scales_comparison.ipynb
