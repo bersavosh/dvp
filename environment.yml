@@ -2,7 +2,7 @@ channels:
   - anaconda
   - defaults
   - conda-forge
-#  - dmentipl
+  - dmentipl
 dependencies:
   - ipywidgets
   - ipympl
@@ -20,7 +20,7 @@ dependencies:
   - bokeh
   - holoviews
 #Needs python <3.8
-#  - kdepy 
+  - kdepy 
 #  - altair
   - pygwalker
   - perspective

@@ -178,3 +178,11 @@ notebooks/*
 !notebooks/pandas_overview*
 !notebooks/histogram_binning.ipynb
 !notebooks/plotting_histogram_workbook.ipynb
+
+## Wrkbook solution
+notebooks/plotting_histogram_complete.ipynb
+
+# Lecture 8
+!notebooks/KDE_kernels.ipynb
+!notebooks/KDE_bandwidths.ipynb
+!notebooks/plotting_KDE_ridgeline_workbook.ipynb
