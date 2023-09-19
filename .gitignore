@@ -180,9 +180,14 @@ notebooks/*
 !notebooks/plotting_histogram_workbook.ipynb
 
 ## Wrkbook solution
-notebooks/plotting_histogram_complete.ipynb
+!notebooks/plotting_histogram_complete.ipynb
 
 # Lecture 8
+!notebooks/aesthetics_markers.ipynb
+!notebooks/aesthetics_linestyles.ipynb
 !notebooks/KDE_kernels.ipynb
 !notebooks/KDE_bandwidths.ipynb
 !notebooks/plotting_KDE_ridgeline_workbook.ipynb
+
+## Wrkbook solution
+!notebooks/plotting_KDE_ridgeline_complete.ipynb
