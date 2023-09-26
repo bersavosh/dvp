@@ -1,0 +1,14 @@
+ipywidgets
+ipympl
+numpy
+scipy
+matplotlib
+fastparquet
+cmasher
+joypy
+seaborn
+pandas
+arviz
+bokeh
+holoviews
+kdepy 
