@@ -4,6 +4,7 @@ channels:
   - conda-forge
   - dmentipl
 dependencies:
+  - python=3.9
   - ipywidgets
   - ipympl
   - numpy
