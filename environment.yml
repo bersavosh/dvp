@@ -17,7 +17,7 @@ dependencies:
   - arviz
 #  - geopandas
   - cartopy
-  - bokeh==2.0
+  - bokeh==2.2
   - plotly>=4.0
   - holoviews
 #Needs python <3.8
