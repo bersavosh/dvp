@@ -199,3 +199,9 @@ notebooks/*
 !notebooks/seaborn_styles.ipynb
 !notebooks/seaborn_workbook.ipynb
 !notebooks/holoviews_example.ipynb
+
+# Lecture 10
+!notebooks/altair_example.ipynb
+!notebooks/large_data_visualization.ipynb
+!notebooks/seaborn_workbook_complete.ipynb
+!streamlit
