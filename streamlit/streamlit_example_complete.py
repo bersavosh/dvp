@@ -113,11 +113,11 @@ st.altair_chart(alt.concat(c2,c3))
 
 alt_slider = alt.binding_range(min=1, max=12, step=1)
 selector = alt.selection_single(name='month', fields=['MONTH'],
-                                bind=alt_slider, init={'MONTH': 1})
+                                bind=alt_slider)
 
 c4 = alt.Chart(data).mark_bar().encode(
          alt.X('BUDAPEST_precipitation',bin=True),
-         y='count()').add_selection(selector).transform_filter(selector)
+         y='count()').add_params(selector).transform_filter(selector)
 
 st.write(c4)
 
